@@ -12,3 +12,9 @@ the name of the source and destination files and is written using POSIX.
 Once designed and tested the program, the system calls are traced in Linux using **Strace**.
 
 Solution: [Click Here]()
+
+### Programming Problem - 4.24
+
+A program for calculating the value of $\Pi$ using a randomization technique known as Monte Carlo.
+
+Solution: [Click Here]()

@@ -21,10 +21,14 @@ gcc Q2-24.c -o Q2-24
 
 ## Screenshots
 Running the program:
+
+
 ![](Images/img1.png)
 
 
 Result:
+
+
 ![](Images/img2.png)
 
 ## Strace
@@ -35,9 +39,13 @@ strace -ostrace_log ./Q2-24
 ```
 
 Screenshot:
+
+
 ![](Images/img3.png)
 
 Result:
+
+
 ```bash
 execve("./Q2-24", ["./Q2-24"], 0x7ffe815056f8 /* 71 vars */) = 0
 brk(NULL)                               = 0x561391e0f000
