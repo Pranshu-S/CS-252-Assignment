@@ -32,7 +32,7 @@ Running the program:
 1. Open the directory containing the code Q4-24-Parallel.c
 2. Compile the program by pasting the following on your terminal.
 ```bash
-gcc Q4-24-Serial.c -o Parallel -pthread
+gcc Q4-24-Parallel.c -pthread -o Parallel 
 ```
 3. Enter the following command to run the program
 ```bash
